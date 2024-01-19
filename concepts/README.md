@@ -1,0 +1,1 @@
+- The basics of learning all the concepts needed is in this directory
